@@ -1,0 +1,21 @@
+--- PAGE 1 ---
+40Homework
+--- PAGE 2 ---
+●First, create a new githubrepository m2-w4-d1-homeworkand clone this in the WESTCLIFF folder.●Next, head to GAP Week 8 Day 1 and download the wk4-day1-homework.zip and the end-w4d1-homework.pdf. Unzip and drop the contents into the clone folder.●In this homework, you will convertthe static contents on the html file provided to VUE. You will need to use VUE instance, template and components.●You do not need to add or modify the CSS codes.●Preview this page on the browser.●See next slide for your tasks.Homework
+41
+--- PAGE 3 ---
+●vHomework
+42
+Legend:ComponentInstanceNote: You are only required to instantiate 1 instance. You can create data with nested properties, such as:data: {obj1: {prop: value},obj2: {prop: value}
+--- PAGE 4 ---
+Due: Sunday 10.30PM PTSubmission:Post GithubURL link in the dropboxat GAP Week 8 Day 1 Homework..Homework
+43
+--- PAGE 5 ---
+Questions?
+44
+--- PAGE 6 ---
+Connect with Us (WEB301/501/801)
+45Rich Lokerichloke@westcliff.eduProfessorChristopher Paulchristopherpaul@westcliff.eduTeaching AssistantIlya Valasovilyavalasov@westcliff.eduTeaching AssistantElizabeth Kippelizabethkipp@westcliff.eduTeaching Assistant
+--- PAGE 7 ---
+End of Presentation
+46
